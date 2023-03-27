@@ -34,7 +34,7 @@ class Database extends Config
 		'DSN'      => '',
 		'hostname' => '127.0.0.1',
 		'username' => 'root',
-		'password' => 'r007s1s7',
+		'password' => 'sua_senha_aqui',
 		'database' => 'dbsigec',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',

@@ -14,7 +14,6 @@ class UsuarioModel extends Model
         $builder->select("id, nome, status AS sts, email, 
         CASE WHEN status = 1 THEN 'Ativo' ELSE 'Inativo' 
         END AS situacao, usuario, idPermissao");
-        $builder->where('id <> 1');
         $builder->join('permissoes', 'usuarios.id = permissoes.idUsuario');
         $query = $builder->get();
 
