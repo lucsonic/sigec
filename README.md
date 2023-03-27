@@ -9,4 +9,7 @@ A conexão com o banco foi configurada no arquivo Database na pasta Conf
 
 Espero ter contribuído de alguma forma para seus estudo.
 
+Usuário: luciano.silva
+Senha: 123456
+
 Luciano Silva
