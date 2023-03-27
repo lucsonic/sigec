@@ -1,0 +1,27 @@
+.topo {
+    background-image: url("../img/borda.png");
+    background-repeat: repeat-x;
+}
+
+.indigo-footer {
+    background: #5C6BC0;
+    color: #fff;
+}
+
+.principal {
+    border: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+.pagina {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: 100%;    
+}
+
+root { 
+    display: block;
+}
+
